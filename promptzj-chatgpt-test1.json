@@ -1,0 +1,10 @@
+[
+  {
+    "act": "为页面内容生成 Meta descriptio",
+    "prompt": "生成 5 个独特的元描述，最多 150 个字符，用于以下文本。它们应该是吸引人的，有行动号召力，包括 [主要关键词]：[页面内容] Generate 5 unique meta descriptions, of a maximum of 150 characters, for the following text. They should be catchy with a call to action, including the term [主要关键词] in them: [页面内容]。\n"
+  },
+  {
+    "act": "模拟电话销售员进行推销",
+    "prompt": "我想让你充当一个销售人员。试着向我推销一些东西，但要让你想推销的东西看起来比它更有价值，并说服我购买它。现在我假装你在给我打电话，问你打电话是为了什么。你好，你打电话是为了什么？ I want you to act as a salesperson. Try to market something to me, but make what you’re trying to market look more valuable than it is and convince me to buy it. Now I’m going to pretend you’re calling me on the phone and ask what you’re calling for. Hello, what did you call for?\n"
+  }
+]
